@@ -1,5 +1,7 @@
+'use client';
 import { useEffect, useRef, useState } from "react";
-import foto3 from './assets/foto3.jpeg';
+
+const foto3 = '/foto3.jpeg';
 
 const styles = `
   @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap');
